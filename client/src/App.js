@@ -1,8 +1,8 @@
 import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
-import LoginPage from "./pages/LoginPage";
-import RegisterPage from "./pages/RegisterPage";
-import ChatPage from "./pages/ChatPage"; // bu önemli
+import LoginPage from "./screens/LoginPage";
+import RegisterPage from "./screens/RegisterPage";
+import ChatPage from "./screens/ChatPage"; // bu önemli
 
 function App() {
   return (
